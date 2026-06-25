@@ -341,24 +341,21 @@ sudo echo "# hacked" >> /etc/hosts
 ![Windows Agent](screenshots/04-windows-agent-installing.png)
 
 ### 5. Wazuh Dashboard Login
-![Dashboard Login](screenshots/05-wazuh-dashboard-login.png)
+![Dashboard Login](screenshots/05-wazuh-dashboard-login.png))
 
-### 6. First Agent Connected
-![1 Agent](screenshots/06-dashboard-1-agent-active.png)
-
-### 7. Both Agents Active
+### 6. Both Agents Active
 ![2 Agents](screenshots/07-dashboard-2-agents-active.png)
 
-### 8. Live Security Events — 30 Hits
+### 7. Live Security Events — 30 Hits
 ![Security Events](screenshots/08-security-events-30hits.png)
 
-### 9. MITRE ATT&CK Dashboard
+### 8. MITRE ATT&CK Dashboard
 ![MITRE Dashboard](screenshots/09-mitre-attack-dashboard.png)
 
-### 10. Security Alerts Table
+### 9. Security Alerts Table
 ![Alerts Table](screenshots/10-mitre-logon-failure-alerts.png)
 
-### 11. Windows Logon Failure Detection
+### 10. Windows Logon Failure Detection
 ![Logon Failure](screenshots/11-windows-logon-failure-events.png)
 
 ### 12. Forensic Alert Investigation
