@@ -372,15 +372,6 @@ sudo echo "# hacked" >> /etc/hosts
 - [Ubuntu Server Download](https://ubuntu.com/download/server)
 - [Windows Event IDs Reference](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia)
 
----
-
-## Author
-**Shabeen**  
-Cybersecurity Fresher | SOC Analyst Aspirant  
-[LinkedIn](https://linkedin.com/in/yourprofile) | 
-[GitHub](https://github.com/yourusername)
-
-
 ## Author
 **Shabeen**  
 Cybersecurity Fresher | SOC Analyst Aspirant  
