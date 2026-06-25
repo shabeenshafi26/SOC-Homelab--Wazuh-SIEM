@@ -357,10 +357,6 @@ sudo echo "# hacked" >> /etc/hosts
 
 ### 10. Windows Logon Failure Detection
 ![Logon Failure](screenshots/10-windows-logon-failure-events.png)
-
-### 12. Forensic Alert Investigation
-![Forensics](screenshots/12-expanded-alert-forensics.png)
-
 ---
 
 ## 15. References
