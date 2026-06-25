@@ -384,5 +384,5 @@ Cybersecurity Fresher | SOC Analyst Aspirant
 ## Author
 **Shabeen**  
 Cybersecurity Fresher | SOC Analyst Aspirant  
-[LinkedIn](https://linkedin.com/in/shabeen-begum-s) | 
+[LinkedIn](https://linkedin.com/in/shabeen-begum-s-013017366) | 
 [GitHub](https://github.com/shabeenshafi26)
