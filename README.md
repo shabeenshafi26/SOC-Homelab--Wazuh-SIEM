@@ -6,7 +6,8 @@
 ![Status](https://img.shields.io/badge/Status-Completed-green)
 
 ## 1. Project Overview
-A Security Operations Center (SOC) homelab built using Wazuh 4.7 SIEM to simulate real-world threat detection and incident response across multiple endpoints.
+
+Built a Security Operations Center (SOC) Homelab using Wazuh SIEM, Ubuntu Server, Ubuntu Desktop, and Windows 10 to monitor logs, detect threats, and investigate security incidents.
 
 **Project Goals:**
 - Deploy a fully functional SIEM in a homelab environment
