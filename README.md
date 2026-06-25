@@ -359,7 +359,7 @@ sudo echo "# hacked" >> /etc/hosts
 ![Logon Failure](screenshots/10-windows-logon-failure-events.png)
 
 ### 11. Forensic Alert Investigation
-![Forensics](screenshots/12-expanded-alert-forensics.png)
+![Forensics](screenshots/11-expanded-alert-forensics.png)
 
 
 ## 15. References
